@@ -13,7 +13,18 @@ The number of walks varies across subjects and the number of frames varies acros
 
 ## HOW TO CITE 
 To cite this dataset, use:
+
 ANDERSSON, Virginia O.; ARAUJO, Ricardo M. Person Identification Using Anthropometric and Gait Data from Kinect Sensor. In: Proceedings of the 29th AAAI Conference. 2015.
+
+@inproceedings{andersson2015person,
+  title={Person Identification Using Anthropometric and Gait Data from Kinect Sensor.},
+  author={Andersson, Virginia Ortiz and de Ara{\'u}jo, Ricardo Matsumura},
+  booktitle={AAAI},
+  pages={425--431},
+  year={2015}
+}
+
+
 
 ## DISCLAIMER: 
 If the use of this API is intended for publishing purposes and academic papers, please cite as above mentioned and provide the link from this repository as reference. 
