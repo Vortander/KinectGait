@@ -16,6 +16,7 @@ To cite this dataset, use:
 
 ANDERSSON, Virginia O.; ARAUJO, Ricardo M. Person Identification Using Anthropometric and Gait Data from Kinect Sensor. In: Proceedings of the 29th AAAI Conference. 2015.
 
+```
 @inproceedings{andersson2015person,
   title={Person Identification Using Anthropometric and Gait Data from Kinect Sensor.},
   author={Andersson, Virginia Ortiz and de Ara{\'u}jo, Ricardo Matsumura},
@@ -23,7 +24,7 @@ ANDERSSON, Virginia O.; ARAUJO, Ricardo M. Person Identification Using Anthropom
   pages={425--431},
   year={2015}
 }
-
+```
 
 
 ## DISCLAIMER: 
