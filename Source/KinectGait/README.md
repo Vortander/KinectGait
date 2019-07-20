@@ -1,41 +1,36 @@
-Instructions for Walk and capture - automatic translated, not revised
-#############################################################################
+## Instructions for Walk and capture
 
-Capture Setup using Kinect
+### Capture Setup using Kinect
 Virginia Ortiz Andersson - September / 2014
+
 Please have the following materials:
-1 - Microsoft Kinect 360.
-2 - Source Bivolt Adapter 110-220v Sensor Kinect For Xbox 360.
-3 - turntable.
-4 - Microcomputer and Software previously installed.
-5 - Power extension with at least 3 or 4 outlets.
-6 - Small table or class (60cm high, but can vary).
-7 - A tape measure or measuring tape
-8 - Adhesive tape for markings on the floor. (Can be tape + pieces of paper).
-9 - classroom or other place with enough empty space and electric lighting.
+
+1. Microsoft Kinect 360.
+2. Source Bivolt Adapter 110-220v Sensor Kinect For Xbox 360.
+3. turntable.
+4. Microcomputer and Software previously installed.
+5. Power extension with at least 3 or 4 outlets.
+6. Small table or class (60cm high, but can vary).
+7. A tape measure or measuring tape
+8. Adhesive tape for markings on the floor. (Can be tape + pieces of paper).
+9. classroom or other place with enough empty space and electric lighting.
 
 Setup Mounting
 ------------------------------------------------------------------------------------------------
-1 - Check the classroom or other place for the presence of obstacles (chairs,
-tables, etc.) and remove them to not interfere with the walk of individuals. The room must be
-completely empty or partially empty for capture, as shown in Figure X.
-2 - Choose a wall to place the table that will support the Kinect sensor. Kinect not
-should "look" direct windows or other light sources. In places with windows,
-if possible, select the window wall for positioning the sensor.
-3 - Position the class or table by the wall chosen in the center of it.
-4 - Place the turntable on the same table. Choose a place to put the
-computer without interfering with the turntable. Remember that Kinect will be placed
-on top of this dish and it needs to stay with free view.
-5 - Prepare an extension cord, check outlets , and turn all equipment
-electronics used during capture. You can now connect the Kinect in making and
-computer if you want.
-6 - Position Kinect on the turntable, "looking" at the center of the wall
-opposite, with its base on or closest possible to the outer circumference
-dish.
-7 - Mark the position of the Kinect on the floor, below its initial position with the tape or tape +
-paper.
-At the end of these steps, you should present a similar setup to
-shown in Figure 1
+
+1. Check the classroom or other place for the presence of obstacles (chairs, tables, etc.) and remove them to not interfere with the walk of individuals. The room must be completely empty or partially empty for capture, as shown in Figure X.
+
+2. Choose a wall to place the table that will support the Kinect sensor. Kinect not should "look" direct windows or other light sources. In places with windows, if possible, select the window wall for positioning the sensor.
+
+3. Position the class or table by the wall chosen in the center of it.
+
+4. Place the turntable on the same table. Choose a place to put the computer without interfering with the turntable. Remember that Kinect will be placed on top of this dish and it needs to stay with free view.
+
+5. Prepare an extension cord, check outlets, and turn all equipment electronics used during capture. You can now connect the Kinect if you want. 
+
+6. Position Kinect on the turntable, "looking" at the center of the wall opposite, with its base on or closest possible to the outer circumference dish.
+
+7. Mark the position of the Kinect on the floor, below its initial position with the tape or tape + paper. At the end of these steps, you should present a similar setup to shown in Figure 1
 
 Figure 1: Kinect + Plate
 
