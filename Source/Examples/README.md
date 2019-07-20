@@ -1,11 +1,13 @@
-##Please, cite our work when using any of these scripts and content for academic or comercial purposes: 
+## Please, cite our work when using any of these scripts and content for academic or comercial purposes: 
 	
 	ANDERSSON, Virginia O.; ARAUJO, Ricardo M. Person Identification Using Anthropometric and Gait Data from Kinect Sensor. 	In: Proceedings of the 29th AAAI Conference. 2015.
 
 First of all, install the Kinect SDK 1.0 in 
-		http://download.microsoft.com/download/F/9/9/F99791F2-D5BE-478A-B77A-830AD14950C3/KinectSDK-v1.0-beta2-x86.msi (KinectSDK-v1.0-beta2-x86.msi)
-                http://download.microsoft.com/download/F/9/9/F99791F2-D5BE-478A-B77A-830AD14950C3/KinectSDK-v1.0-beta2-x64.msi (KinectSDK-v1.0-beta2-x64.msi)
-                or: http://www.microsoft.com/en-us/kinectforwindows/develop/beta.aspx 
+	
+	http://download.microsoft.com/download/F/9/9/F99791F2-D5BE-478A-B77A-830AD14950C3/KinectSDK-v1.0-beta2-x86.msi (KinectSDK-v1.0-beta2-x86.msi)
+	http://download.microsoft.com/download/F/9/9/F99791F2-D5BE-478A-B77A-830AD14950C3/KinectSDK-v1.0-beta2-x64.msi (KinectSDK-v1.0-beta2-x64.msi)
+	or: http://www.microsoft.com/en-us/kinectforwindows/develop/beta.aspx 
+
 This was the only SDK that was used and tested with KinectGait.exe.
 
 Open file "KinectGaitInstructions-Translated.txt" and read the translated instructions to use KinectGait.exe.
