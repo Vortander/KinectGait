@@ -32,7 +32,7 @@ Setup Mounting
 
 7. Mark the position of the Kinect on the floor, below its initial position with the tape or tape + paper. At the end of these steps, you should present a similar setup to shown in Figure 1
 
-Figure 1: Kinect + Plate
+Figure 1: Kinect + Plate (KinectGaitInstructions-Portuguese.pdf, Fig. 1)
 
 Marking the limits and semicircle to walk
 ------------------------------------------------------------------------------------------------------
@@ -45,9 +45,9 @@ Figure 2: In the center, the dish with Kinect, position of 3m spokes and a sense
 walk illustrated by the arrows.
 
 Figure 2: In the center, the dish with Kinect, position of 3m spokes and a sense of
-walk illustrated by the arrows
+walk illustrated by the arrows (KinectGaitInstructions-Portuguese.pdf, Fig. 2)
 
-Figure 3: Setup end
+Figure 3: Setup (KinectGaitInstructions-Portuguese.pdf, Fig. 3)
 
 Walk and capture
 -------------------------------------------------------------------------------------------------------
@@ -105,4 +105,4 @@ Memorize this procedure to request execution to volunteers.
 	hiking. For the individual to walk again, provide the same
 	identifier (identical) and the new path number "New Capture ..."
 	
-Figure 4: semicircular trajectory that should be performed by individuals
+Figure 4: semicircular trajectory that should be performed by individuals (KinectGaitInstructions-Portuguese.pdf, Fig. 4)
