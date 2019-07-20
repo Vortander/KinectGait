@@ -1,6 +1,7 @@
 ########################################################################
-Please, cite our work when using any of these scripts and content for academic or comercial purposes: 
-ANDERSSON, Virginia O.; ARAUJO, Ricardo M. Person Identification Using Anthropometric and Gait Data from Kinect Sensor. In: Proceedings of the 29th AAAI Conference. 2015.
+	Please, cite our work when using any of these scripts and content for academic or comercial purposes: 
+	
+	ANDERSSON, Virginia O.; ARAUJO, Ricardo M. Person Identification Using Anthropometric and Gait Data from Kinect Sensor. 	In: Proceedings of the 29th AAAI Conference. 2015.
 ########################################################################
 
 First of all, install the Kinect SDK 1.0 in 
@@ -14,6 +15,8 @@ Make some walk captures and follow the instructions below.
 		
 1) Place all persons walk directories into one single directory
 	- e.g. Walks
+
+Next, script examples are presented to help extract features from walk files.
 
 2) Run "create_file_list.py [directory name]" 
 	- e.g. create_file_list.py Walks
