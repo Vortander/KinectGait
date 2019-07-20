@@ -1,0 +1,28 @@
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\bin\Debug\KinectCalibration.exe
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\bin\Debug\KinectCalibration.pdb
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\MainWindow.baml
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\App.g.cs
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\KinectCalibration_MarkupCompile.cache
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\KinectCalibration.g.resources
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\KinectCalibration.exe
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\KinectCalibration.pdb
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\KinectCalibration.exe
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\KinectCalibration.pdb
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\bin\Debug\KinectCalibration.exe
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\bin\Debug\KinectCalibration.pdb
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\MainWindow.baml
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\MainWindow.g.cs
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\App.g.cs
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\KinectCalibration_MarkupCompile.cache
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\KinectCalibration.g.resources
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\virgi\Dropbox\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\obj\x86\Debug\KinectCalibration.exe
+C:\Users\virgi\Dropbox\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\obj\x86\Debug\KinectCalibration.pdb

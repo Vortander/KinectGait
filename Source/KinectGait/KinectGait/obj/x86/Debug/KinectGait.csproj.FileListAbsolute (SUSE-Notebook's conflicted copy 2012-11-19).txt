@@ -1,0 +1,28 @@
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\bin\Debug\KinectGait.exe
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\bin\Debug\KinectGait.pdb
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\KinectGait_MarkupCompile.cache
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\KinectGait.g.resources
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\KinectGait.Properties.Resources.resources
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\KinectGait.exe
+C:\Users\Ricardo\AppData\Local\Temporary Projects\WpfApplication1\obj\x86\Debug\KinectGait.pdb
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\KinectGait.exe
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\KinectGait.pdb
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\bin\Debug\KinectGait.exe
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\bin\Debug\KinectGait.pdb
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\MainWindow.baml
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\App.g.cs
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\KinectGait_MarkupCompile.cache
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\KinectGait.g.resources
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\KinectGait.Properties.Resources.resources
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\DialogoNovaCaptura.baml
+C:\Users\Ricardo\documents\visual studio 2010\Projects\KinectGait\KinectGait\obj\x86\Debug\DialogoNovaCaptura.g.cs

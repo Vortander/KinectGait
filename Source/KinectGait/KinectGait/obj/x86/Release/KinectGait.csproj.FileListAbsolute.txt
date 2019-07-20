@@ -1,0 +1,54 @@
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\bin\Release\KinectGait.exe
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\bin\Release\KinectGait.pdb
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\MainWindow.baml
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\DialogoNovaCaptura.baml
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\MainWindow.g.cs
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\DialogoNovaCaptura.g.cs
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\App.g.cs
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\KinectGait_MarkupCompile.cache
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\KinectGait.g.resources
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\KinectGait.Properties.Resources.resources
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\KinectGait.exe
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait\KinectGait\obj\x86\Release\KinectGait.pdb
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\bin\Release\KinectGait.exe
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\bin\Release\KinectGait.pdb
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\MainWindow.baml
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\DialogoNovaCaptura.baml
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\DialogoCalibrar.baml
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\MainWindow.g.cs
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\DialogoNovaCaptura.g.cs
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\DialogoCalibrar.g.cs
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\App.g.cs
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait_MarkupCompile.cache
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.g.resources
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.Properties.Resources.resources
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.exe
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.pdb
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.exe
+C:\Users\Ricardo\Documents\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.pdb
+E:\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.exe
+E:\Dropbox\Mestrado\Kinect Codigos\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.pdb
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.exe
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.pdb
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\bin\Release\KinectGait.exe
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\bin\Release\KinectGait.pdb
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\MainWindow.baml
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\MainWindow.g.cs
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\App.g.cs
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait_MarkupCompile.cache
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.g.resources
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.Properties.Resources.resources
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.csproj.GenerateResource.Cache
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\KinectGait.csprojResolveAssemblyReference.cache
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\DialogNewCapture.baml
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\DialogCalibrate.baml
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\DialogNewCapture.g.cs
+C:\Users\virgi\Desktop\KinectGait - versao 2\KinectGait\obj\x86\Release\DialogCalibrate.g.cs
+C:\Users\virgi\Desktop\KinectGaitSourceCodes\KinectGait\KinectGait\obj\x86\Release\KinectGait.exe
+C:\Users\virgi\Desktop\KinectGaitSourceCodes\KinectGait\KinectGait\obj\x86\Release\KinectGait.pdb

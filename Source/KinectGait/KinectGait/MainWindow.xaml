@@ -1,0 +1,33 @@
+﻿<Window x:Class="KinectGait.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="KinectGAIT" ResizeMode="CanMinimize" Background="{StaticResource {x:Static SystemColors.ControlLightBrushKey}}" Loaded="Window_Loaded" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" Height="645" Width="870">
+    <Grid AllowDrop="True" Height="610" Width="852">
+        <Image Name="video" Width="640" Margin="11,37,201,93" />
+        <Rectangle Height="40" HorizontalAlignment="Left" Margin="12,549,0,0" Name="rectangle1" Stroke="Black" VerticalAlignment="Top" Width="639" />
+        <Canvas Height="480" HorizontalAlignment="Left" Margin="10,37,0,0" Name="esqueletoView" VerticalAlignment="Top" Background="Transparent" Width="640" ClipToBounds="True"></Canvas>
+        <Image Height="164" Name="depth" Stretch="Fill" Width="191" Margin="654,354,7,92" />
+        <Menu  Height="24" IsMainMenu="True" HorizontalAlignment="Left" Margin="12,7,0,0" Name="menu1" VerticalAlignment="Top" Width="169" DataContext="{Binding}">
+            <MenuItem Header="_Capture" DataContext="{Binding}" HorizontalContentAlignment="Center" Background="{StaticResource {x:Static SystemColors.MenuBrushKey}}" BorderBrush="{StaticResource {x:Static SystemColors.ControlLightBrushKey}}" >
+                <MenuItem Header="_New Capture..." Click="NewCapture_Click"></MenuItem>
+                <MenuItem Header="_Save Capture" Click="SaveCapture_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="_Calibrate" DataContext="{Binding}" HorizontalContentAlignment="Center" Background="{StaticResource {x:Static SystemColors.MenuBrushKey}}" BorderBrush="{StaticResource {x:Static SystemColors.ControlLightBrushKey}}" >
+                <MenuItem Header="Regular Tilt..." Click="regularTilt_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="_About" DataContext="{Binding}" HorizontalContentAlignment="Center" Background="{StaticResource {x:Static SystemColors.MenuBrushKey}}" BorderBrush="{StaticResource {x:Static SystemColors.ControlLightBrushKey}}" >
+                <MenuItem Header="Sobre..." Click="about_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <TextBox Height="23" HorizontalAlignment="Right" Margin="0,521,408,0" x:Name="counterText" VerticalAlignment="Top" Width="120" IsReadOnly="True" IsEnabled="False" />
+        <Label Content="Person" Height="28" HorizontalAlignment="Left" Margin="23,517,0,0" Name="label1" VerticalAlignment="Top" />
+        <Label Content="Current capture" Height="28" HorizontalAlignment="Right" Margin="0,517,533,0" Name="label2" VerticalAlignment="Top" RenderTransformOrigin="0.516,0.357" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="84,521,0,0" x:Name="personText" VerticalAlignment="Top" Width="120" IsEnabled="False" IsReadOnly="True" />
+        <Button Content="&gt;&gt;" Height="26" HorizontalAlignment="Left" Margin="187,555,0,0" Name="botaoIniciar" VerticalAlignment="Top" Width="64" Click="buttonStart_Click" />
+        <Button Height="26" HorizontalAlignment="Right" Margin="0,555,338,0" Name="botaoParar" VerticalAlignment="Top" Width="64" Content="||" Click="buttonStop_Click" />
+        <Label Content="Start" Height="28" HorizontalAlignment="Left" Margin="139,555,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="Stop" Height="28" HorizontalAlignment="Right" Margin="0,555,408,0" Name="label4" VerticalAlignment="Top" />
+        <Label Content="FPS" Height="28" HorizontalAlignment="Left" Margin="497,517,0,0" Name="label5" VerticalAlignment="Top" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="531,521,0,0" Name="frameRate" VerticalAlignment="Top" Width="120" IsEnabled="False" IsReadOnly="True" />
+    </Grid>
+</Window>

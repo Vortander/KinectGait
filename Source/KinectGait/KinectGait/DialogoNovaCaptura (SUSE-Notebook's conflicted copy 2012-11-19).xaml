@@ -1,0 +1,13 @@
+﻿<Window x:Class="KinectGait.DialogoNovaCaptura"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Nova Captura" Height="308" Width="687">
+    <Grid>
+        <Label Content="Nome do indivíduo" Height="29" HorizontalAlignment="Left" Margin="18,20,0,0" Name="label1" VerticalAlignment="Top" Width="235" />
+        <TextBox Height="28" HorizontalAlignment="Left" Margin="138,18,0,0" Name="textBox1" VerticalAlignment="Top" Width="504" DataContext="{Binding}" />
+        <CheckBox Content="Sim" Height="16" HorizontalAlignment="Left" Margin="140,79,0,0" Name="checkBoxSim" VerticalAlignment="Top" Width="329" Checked="checkBox1_Checked_1" />
+        <Label Content="Criar diretório?" Height="28" HorizontalAlignment="Left" Margin="20,73,0,0" Name="label2" VerticalAlignment="Top" />
+        <Button Content="Salvar" Height="23" HorizontalAlignment="Left" Margin="470,219,0,0" Name="botaoSalvar" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Button Content="Cancelar" Height="23" HorizontalAlignment="Right" Margin="0,219,24,0" Name="botaoCancelar" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+    </Grid>
+</Window>

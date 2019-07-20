@@ -1,0 +1,25 @@
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\bin\Release\KinectCalibration.exe
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\bin\Release\KinectCalibration.pdb
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Release\MainWindow.baml
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Release\MainWindow.g.cs
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Release\App.g.cs
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Release\KinectCalibration_MarkupCompile.cache
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Release\KinectCalibration.g.resources
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Release\KinectCalibration.exe
+D:\Arquivos\Dropbox\Mestrado\Kinect Codigos\KinectCalibration\KinectCalibration\obj\x86\Release\KinectCalibration.pdb
+C:\Users\Livia\Dropbox\Competição Intel 2014\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\obj\x86\Release\KinectCalibration.exe
+C:\Users\Livia\Dropbox\Competição Intel 2014\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\obj\x86\Release\KinectCalibration.pdb
+C:\Users\Livia\Dropbox\Competição Intel 2014\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\bin\Release\KinectCalibration.exe
+C:\Users\Livia\Dropbox\Competição Intel 2014\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\bin\Release\KinectCalibration.pdb
+C:\Users\Livia\Dropbox\Competição Intel 2014\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\obj\x86\Release\KinectCalibration.csprojResolveAssemblyReference.cache
+C:\Users\Livia\Dropbox\Competição Intel 2014\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\obj\x86\Release\MainWindow.baml
+C:\Users\Livia\Dropbox\Competição Intel 2014\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\obj\x86\Release\MainWindow.g.cs
+C:\Users\Livia\Dropbox\Competição Intel 2014\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\obj\x86\Release\App.g.cs
+C:\Users\Livia\Dropbox\Competição Intel 2014\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\obj\x86\Release\KinectCalibration_MarkupCompile.cache
+C:\Users\Livia\Dropbox\Competição Intel 2014\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\obj\x86\Release\KinectCalibration.g.resources
+C:\Users\Livia\Dropbox\Competição Intel 2014\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Livia\Dropbox\Competição Intel 2014\Kinect\Programas de Captura e Calibragem\KinectCalibration\KinectCalibration\obj\x86\Release\KinectCalibration.csproj.GenerateResource.Cache
