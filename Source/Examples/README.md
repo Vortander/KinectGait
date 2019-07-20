@@ -2,7 +2,7 @@
 	
 	ANDERSSON, Virginia O.; ARAUJO, Ricardo M. Person Identification Using Anthropometric and Gait Data from Kinect Sensor. 	In: Proceedings of the 29th AAAI Conference. 2015.
 
-First of all, install the Kinect SDK 1.0 in 
+First of all, install the Kinect SDK 1.0 available at
 	
 	http://download.microsoft.com/download/F/9/9/F99791F2-D5BE-478A-B77A-830AD14950C3/KinectSDK-v1.0-beta2-x86.msi (KinectSDK-v1.0-beta2-x86.msi)
 	http://download.microsoft.com/download/F/9/9/F99791F2-D5BE-478A-B77A-830AD14950C3/KinectSDK-v1.0-beta2-x64.msi (KinectSDK-v1.0-beta2-x64.msi)
