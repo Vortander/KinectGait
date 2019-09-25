@@ -20,7 +20,7 @@ else:
 	f2 = open(file2, 'r')
 
 	fw = open('all_attributes.csv', 'w')
-	
+
 	f1_lines = f1.readlines()
 	f2_lines = f2.readlines()
 
@@ -34,7 +34,7 @@ else:
 
 			f1_list = f1_line.split(',')
 			f2_list = f2_line.split(',')
-			
+
 			f1_list.pop(0)
 			f1_list.pop(len(f1_list)-1)
 			name = f2_list.pop(0)
